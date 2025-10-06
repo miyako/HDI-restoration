@@ -18,7 +18,7 @@ index
 - PDFUnderWindows
 - PHPExecute
 - PictMetadata
-- PicturesCombine
+- [PicturesCombine](https://github.com/miyako/HDI_PicturesCombine)
 - [PicturesCrop](https://github.com/miyako/HDI_PicturesCrop)
 - PrintObject
 - ReplicateDirectory
