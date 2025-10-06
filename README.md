@@ -33,3 +33,24 @@ index
 - WidgetObjects
 - XMLImprovements
 - XMLOverHTTP
+
+## v15
+
+- [HDI_UseSvgFilters](https://github.com/miyako/HDI_UseSvgFilters)
+- HDI_4D_Write_Pro
+- HDI_4DTags
+- HDI_4DViewGetBorders
+- HDI_CountClicks
+- HDI_Find_in_sorted_array
+- HDI_FORM_LOAD_from_component
+- HDI_FormGetObjects_Pages
+- HDI_Get4Dmeasures
+- HDI_GetListboxCoordinates
+- HDI_GetLockRecords
+- HDI_LDAP_Connections
+- HDI_MobileReturnSelection
+- HDI_ObjectArraysInListboxes
+- HDI_OnScrollEventInPictureAndListBox
+- HDI_PictureTransparency
+- HDI_UseFieldObjects
+- HDI_useOpenUrlParameter
