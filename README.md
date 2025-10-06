@@ -51,6 +51,6 @@ index
 - HDI_MobileReturnSelection
 - HDI_ObjectArraysInListboxes
 - HDI_OnScrollEventInPictureAndListBox
-- HDI_PictureTransparency
+- [HDI_PictureTransparency](https://github.com/miyako/HDI_PictureTransparency)
 - HDI_UseFieldObjects
 - HDI_useOpenUrlParameter
