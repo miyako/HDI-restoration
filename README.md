@@ -15,6 +15,7 @@ index
 * 4DUnicodeInfos
 * 4DUserForms
 * ~~Stock_Stalker~~ public yahoo finance api discontinued
+* Web_Area_Demo
 
 ## v12
 
