@@ -9,7 +9,7 @@ index
 * 4DLists
 * 4DMailing
 * 4DObjects
-* 4DPasswords
+* [4DPasswords](https://github.com/miyako/HDI_Passwords)
 * 4DSQL
 * 4DStaticWebBuilder
 * 4DUnicodeInfos
