@@ -34,6 +34,25 @@ index
 - XMLImprovements
 - XMLOverHTTP
 
+## v14
+
+- HDI_ScrollTwoPictures
+- HDI_4D_view_GetBorders.4dbase
+- HDI_4DTags.4dbase
+- HDI_DuplicateCol
+- HDI_Find_in_sorted_array.4dbase
+- HDI_GettersSetters
+- HDI_RotateTexts
+- HDI_SaveAsReference
+- HDI_SaveObjectPositions
+- HDI_SetDatasource
+- HDI_SetDragIcon
+- HDI_SetStyleToCells
+- HDI_SetupAchoiceList
+- HDI_UseFullScreen
+- HDI_UsePlaceholders
+- HDI_UsePopupsWithVars
+
 ## v15
 
 - [HDI_UseSvgFilters](https://github.com/miyako/HDI_UseSvgFilters)
