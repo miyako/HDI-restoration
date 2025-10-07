@@ -88,4 +88,4 @@ index
 - HDI_OnScrollEventInPictureAndListBox
 - [HDI_PictureTransparency](https://github.com/miyako/HDI_PictureTransparency)
 - HDI_UseFieldObjects
-- HDI_useOpenUrlParameter
+- ~~HDI_useOpenUrlParameter~~ internet explorer obsolete
