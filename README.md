@@ -8,7 +8,7 @@ index
 * [4DIndexes](https://github.com/miyako/HDI_Indexes)
 * 4D HierarchicalLists
 * 4D IncludedLists
-* 4DMailing
+* ~~4DMailing~~ 4D Write plugin obsolete
 * 4DObjects
 * [4DPasswords](https://github.com/miyako/HDI_Passwords)
 * 4DSQL
