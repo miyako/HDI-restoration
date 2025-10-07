@@ -14,7 +14,7 @@ index
 * 4DStaticWebBuilder
 * 4DUnicodeInfos
 * 4DUserForms
-* ~~Stock_Stalker~~ public yahoo finance api discontinued
+* ~~Stock_Stalker~~ yahoo finance public api discontinued
 * Web_Area_Demo
 
 ## v12
@@ -28,7 +28,7 @@ index
 - GettersSetters
 - HierarchicalListBoxes
 - Joins
-- JSONDemo
+- ~~JSONDemo~~ [Prototype JavaScript framework](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework) obsolete
 - LanguageSwitching
 - NewFieldAttributes
 - PDFUnderWindows
