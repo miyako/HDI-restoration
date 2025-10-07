@@ -12,7 +12,7 @@ index
 * 4DObjects
 * [4DPasswords](https://github.com/miyako/HDI_Passwords)
 * 4DSQL
-* 4DStaticWebBuilder
+* ~~4DStaticWebBuilder~~ FTP deprecated
 * 4DUnicodeInfos
 * ~~4DUserForms~~ feature deprecated
 * ~~Stock_Stalker~~ yahoo finance public api discontinued
