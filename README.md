@@ -4,9 +4,10 @@ index
 ## v11
 
 * [4D_SQL_Code_Samples](https://github.com/miyako/4d-tips-sql-code-samples)
-* 4D_Web_Sample_v11
+* ~~4D_Web_Sample_v11~~ non contextual mode obsolete
 * [4DIndexes](https://github.com/miyako/HDI_Indexes)
-* 4DLists
+* 4D HierarchicalLists
+* 4D IncludedLists
 * 4DMailing
 * 4DObjects
 * [4DPasswords](https://github.com/miyako/HDI_Passwords)
