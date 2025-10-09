@@ -3,14 +3,11 @@ index
 
 ## v11
 
-* [4D_SQL_Code_Samples](https://github.com/miyako/4d-tips-sql-code-samples)
 * ~~4D_Web_Sample_v11~~ non contextual mode obsolete
-* [4DIndexes](https://github.com/miyako/HDI_Indexes)
 * 4D HierarchicalLists
 * 4D IncludedLists
 * ~~4DMailing~~ 4D Write plugin obsolete
 * 4DObjects
-* [4DPasswords](https://github.com/miyako/HDI_Passwords)
 * 4DSQL
 * ~~4DStaticWebBuilder~~ FTP deprecated
 * 4DUnicodeInfos
@@ -35,8 +32,6 @@ index
 - PDFUnderWindows
 - PHPExecute
 - PictMetadata
-- [PicturesCombine](https://github.com/miyako/HDI_PicturesCombine)
-- [PicturesCrop](https://github.com/miyako/HDI_PicturesCrop)
 - PrintObject
 - ReplicateDirectory
 - ReplicateInvoices
@@ -72,7 +67,6 @@ index
 
 ## v15
 
-- [HDI_UseSvgFilters](https://github.com/miyako/HDI_UseSvgFilters)
 - HDI_4D_Write_Pro
 - HDI_4DTags
 - HDI_4DViewGetBorders
@@ -86,7 +80,5 @@ index
 - HDI_LDAP_Connections
 - HDI_MobileReturnSelection
 - HDI_ObjectArraysInListboxes
-- [HDI_OnScrollEventInPictureAndListBox](https://github.com/miyako/HDI_OnScrollEventInPictureAndListBox)
-- [HDI_PictureTransparency](https://github.com/miyako/HDI_PictureTransparency)
 - HDI_UseFieldObjects
 - ~~HDI_useOpenUrlParameter~~ internet explorer obsolete
